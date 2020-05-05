@@ -1,3 +1,4 @@
-# Chapter
+# Chapter 4
 
-![](./assets/img-4.jpg)
+![](.gitbook/assets/img-4.jpg)
+

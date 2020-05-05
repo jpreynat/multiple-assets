@@ -1,3 +1,4 @@
-# Chapter
+# Chapter 6
 
-![](./assets/img-6.jpg)
+![](.gitbook/assets/img-6.jpg)
+

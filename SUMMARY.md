@@ -1,4 +1,4 @@
-# ToC
+# Table of contents
 
 * [Intro](README.md)
 * [Chapter](chap.md)
@@ -9,3 +9,4 @@
 * [Chapter 5](chap-5.md)
 * [Chapter 6](chap-6.md)
 * [Chapter 7](chap-7.md)
+
